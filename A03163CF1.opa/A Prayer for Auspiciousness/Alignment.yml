@@ -1,0 +1,19 @@
+segment_sources:
+  PB154D131:
+    type: origin_type
+    relation: translation
+    language: en
+  P1D4F0DBA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3fffe8bf45aa42818290de1960cad68d:
+    PB154D131: 7c97a3ce19c947b7adb69972ca9c9eed
+    P1D4F0DBA: 4f3f90c84274452ba99647b8e079940f
+  a74defcf93e9424ea2cc8a50deafce84:
+    PB154D131: caddf2f3f1a24a03abc590d25975abc8
+    P1D4F0DBA: a745dbf252404983a3f61729f72af953
+  b1e3f4b4fa6d4134bcea3c454820f077:
+    PB154D131: 122ee2a2a824423589a9337280fd23a3
+    P1D4F0DBA: d839a01400b74b51ab33d61d098b0506
